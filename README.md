@@ -12,6 +12,7 @@ Imagine a company (**Company A**) needs a **Principal Software Engineer** and is
 
 ## Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/fa0d1c6c-e17e-47ca-bfc7-63c020f58fbe)
 
 ---
 
